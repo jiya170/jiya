@@ -1,0 +1,6 @@
+{
+  "deviceId": "abc123",
+  "timestamp": "2023-10-01T10:00:00Z",
+  "temperature": 25,
+  "humidity": 60
+}
